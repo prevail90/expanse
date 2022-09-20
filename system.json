@@ -51,15 +51,15 @@
   "media": [
     {
       "type": "cover",
-      "url": "https://github.com/Foxfyre/expanse/blob/48754e8d372787dc421144561a92d8590410bac7/ui/expanse-cover.jpg"
+      "url": "https://github.com/prevail90/expanse/blob/48754e8d372787dc421144561a92d8590410bac7/ui/expanse-cover.jpg"
     }
   ],
   "gridDistance": 1,
   "gridUnits": "m",
   "primaryTokenAttribute": "attributes.fortune",
   "secondaryTokenAttribute": "resource2",
-  "url": "https://github.com/Foxfyre/expanse",
-  "manifest": "https://raw.githubusercontent.com/Foxfyre/expanse/main/system.json",
-  "download": "https://github.com/Foxfyre/expanse/releases/download/v0.8.5/expanse.zip",
+  "url": "https://github.com/prevail90/expanse",
+  "manifest": "https://raw.githubusercontent.com/prevail90/expanse/main/system.json",
+  "download": "https://github.com/prevail90/expanse/releases/download/v0.8.5/expanse.zip",
   "license": "LICENSE.txt"
 }
